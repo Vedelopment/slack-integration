@@ -1,3 +1,3 @@
 # slack-integration
 
-cci
+github
