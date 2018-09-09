@@ -1,3 +1,3 @@
 # slack-integration
 
-github
+github with incoming webhooks
